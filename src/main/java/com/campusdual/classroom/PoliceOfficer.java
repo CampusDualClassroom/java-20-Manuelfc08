@@ -9,3 +9,4 @@ public class PoliceOfficer extends Person {
 		this.squad = squad;
 	}
 }
+

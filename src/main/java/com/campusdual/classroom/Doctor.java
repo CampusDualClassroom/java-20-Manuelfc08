@@ -14,3 +14,4 @@ public class Doctor extends Person {
 		System.out.println("Doctor " + name + " " + surname + ", especialista en " + specialization.toLowerCase());
 	}
 }
+
